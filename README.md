@@ -6,4 +6,5 @@ You can download the latest beta version of the [scratch project](https://scratc
 If you have any questions, feel free to ask them then.
 
 If we reach version 3.0, I'm planning to package it into an html file or create a normal executable application. (The icon design is already done.)
+
 ![Scrath x Don't Starve icon](icon_scratch.png)
